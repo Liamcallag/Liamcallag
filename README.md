@@ -16,4 +16,4 @@ Self-taught developer based in Stockholm. I build and ship real products — not
 
 ## Open to work
 
-I'm currently looking for frontend or full-stack developer roles. Feel free to reach out.
+I'm currently looking for roles in web design, frontend development or anything at the intersection of AI and the web. I also have a strong interest in SEO and growth. Feel free to reach out!
